@@ -1,0 +1,6 @@
+
+[TRACE] [2024-09-19T15:11:19.333734700] trace level log message
+[DEBUG] [2024-09-19T15:11:19.334731500] debug level log message
+[INFO] [2024-09-19T15:11:19.335728200] info level log message
+[WARNING] [2024-09-19T15:11:19.335728200] warn level log message
+[ERROR] [2024-09-19T15:11:19.335728200] error level log message
